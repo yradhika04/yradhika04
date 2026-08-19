@@ -8,22 +8,22 @@ things they enjoy.
 **Tools & Technologies**
 
 <p style="text-align: left;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.simpleicons.org/latex" width="40" height="40" alt="LaTeX"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" title="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.simpleicons.org/latex" width="40" height="40" alt="LaTeX" title="LaTeX"/>
 </p>
 <p style="text-align: left;">
-<img src="https://cdn.simpleicons.org/jira" width="40" height="40" alt="Jira"/>
-  <img src="https://cdn.simpleicons.org/miro" width="40" height="40" alt="Miro"/>
-  <img src="https://cdn.simpleicons.org/notion" width="40" height="40" alt="Notion"/>
+  <img src="https://cdn.simpleicons.org/jira" width="40" height="40" alt="Jira" title="Jira"/>
+  <img src="https://cdn.simpleicons.org/miro" width="40" height="40" alt="Miro" title="Miro"/>
+  <img src="https://cdn.simpleicons.org/notion" width="40" height="40" alt="Notion" title="Notion"/>
 </p>
 <p style="text-align: left;">
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" height="40" alt="Tableau"/>
-<img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/dbt/icon.svg" width="35" height="40" alt="dbt"/>
-<img src="https://cdn.simpleicons.org/snowflake" width="40" height="40" alt="Snowflake"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" height="40" alt="Tableau" title="Tableau"/>
+  <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/dbt/icon.svg" width="35" height="40" alt="dbt" title="dbt"/>
+  <img src="https://cdn.simpleicons.org/snowflake" width="40" height="40" alt="Snowflake" title="Snowflake"/>
 </p>
 (And if I haven't used something yet, I can learn it 🤯)
 
