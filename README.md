@@ -43,4 +43,4 @@ of tech, especially AI, and am currently broadening my understanding of
 AI Safety across disciplines.  
 
 I am currently looking for full-time opportunities in Germany. 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/radhikayadav04/). 
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/radhikayadav04/) :)
